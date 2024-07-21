@@ -1,9 +1,8 @@
 ####################################
-# 创建者：T
-# 客户端：Clash.Meta
-# 创建时间：2024-07-21 11:10:17
-# 使用模版：V2RaySE 默认模版
-# 节点数量：1
+# 创建者：v2rayse.com
+# 客户端：Timo
+# 创建时间：2024-07-21 23:46:40
+# 节点数量：20
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
@@ -86,46 +85,179 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - {"name":"Timo|emFz.love@xray.com","type":"vless","server":"103.76.128.21","port":30279,"udp":true,"uuid":"36c6db40-bea8-419f-98c8-51bc294e80a7","tls":true,"servername":"www.tcpsoftware.com","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY"},"client-fingerprint":"chrome"}
+  - {"name":"🇺🇸_timo_1","type":"vless","server":"47.236.172.71","port":2087,"uuid":"e9b9b46b-3a65-4216-be55-4c176be5a277","tls":true,"servername":"xiaoer88602.xiaoer886.dynv6.net","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.sg.fxxk.dedyn.io"}}
+  - {"name":"🇺🇸_timo_2","type":"vless","server":"47.236.202.91","port":2096,"uuid":"bd7d2c5c-86bc-4d5c-8c6b-a5c58981e68c","tls":true,"servername":"page-us-qg0.pages.dev","network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"🇺🇸_timo_3","type":"vless","server":"18.167.194.154","port":443,"uuid":"4f42d8f7-8beb-47e1-9465-8f390c6d658d","tls":true,"servername":"toujiediansigema.666888.lol","network":"ws","ws-opts":{"path":"/TG@mianfeicf"},"client-fingerprint":"random"}
+  - {"name":"🇰🇷_timo_4","type":"vless","server":"175.211.129.76","port":17182,"uuid":"4f42d8f7-8beb-47e1-9465-8f390c6d658d","tls":true,"servername":"toujiediansigema.666888.lol","network":"ws","ws-opts":{"path":"/TG@mianfeicf"},"client-fingerprint":"random"}
+  - {"name":"🇰🇷_timo_5","type":"vless","server":"121.170.103.123","port":39654,"uuid":"e9b9b46b-3a65-4216-be55-4c176be5a277","tls":true,"servername":"xiaoer88602.xiaoer886.dynv6.net","network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"🇺🇸_timo_6","type":"vless","server":"104.20.27.224","port":2096,"uuid":"4f42d8f7-8beb-47e1-9465-8f390c6d658d","tls":true,"servername":"toujiediansigema.666888.lol","network":"ws","ws-opts":{"path":"/TG@mianfeicf"},"client-fingerprint":"random"}
+  - {"name":"🇰🇷_timo_7","type":"vless","server":"121.170.103.123","port":18034,"uuid":"4f42d8f7-8beb-47e1-9465-8f390c6d658d","tls":true,"servername":"toujiediansigema.666888.lol","network":"ws","ws-opts":{"path":"/TG@mianfeicf"},"client-fingerprint":"random"}
+  - {"name":"🇺🇸_timo_8","type":"vless","server":"skk.moe","port":8443,"uuid":"d672ec4f-afba-4f61-af09-eec872f97e99","tls":true,"servername":"test110.pages.dev","network":"ws","ws-opts":{"path":"/?ed=2048"},"client-fingerprint":"random"}
+  - {"name":"🇺🇸_timo_9","type":"vless","server":"skk.moe","port":8443,"uuid":"d672ec4f-afba-4f61-af09-eec872f97e99","tls":true,"servername":"test155.pages.dev","network":"ws","ws-opts":{"path":"/?ed=2048"},"client-fingerprint":"random"}
+  - {"name":"🇰🇷_timo_10","type":"vless","server":"49.165.150.206","port":18916,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"Twitter苏小柠tg@zdyz2"}}
+  - {"name":"🇺🇸_timo_11","type":"vless","server":"104.19.18.180","port":443,"uuid":"d9eb0df3-3190-4447-86b6-656fe5ff1119","tls":true,"servername":"mmdv2.pages.dev","network":"ws","ws-opts":{"path":"/"}}
+  - {"name":"🇺🇸_timo_12","type":"vless","server":"159.112.235.90","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"tg@zdyz2"}}
+  - {"name":"🇺🇸_timo_13","type":"vless","server":"66.81.247.24","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"tg@zdyz2"}}
+  - {"name":"🇺🇸_timo_14","type":"vless","server":"170.114.46.106","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"tg@zdyz2"}}
+  - {"name":"🇰🇷_timo_15","type":"vless","server":"114.30.225.88","port":30030,"uuid":"e9b9b46b-3a65-4216-be55-4c176be5a277","tls":true,"servername":"xiaoer88602.xiaoer886.dynv6.net","network":"ws","ws-opts":{"path":"/?proxyip=proxyip.kr.fxxk.dedyn.io"}}
+  - {"name":"🇫🇷_timo_16","type":"vless","server":"45.80.110.211","port":2053,"uuid":"d342d11e-d424-4583-b36e-524ab1f0afa4","tls":true,"servername":"a.ssll.gay","network":"ws","ws-opts":{"path":"twitterfreecodes"}}
+  - {"name":"🇺🇸_timo_17","type":"vless","server":"155.46.213.9","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"/tg@zdyz2"}}
+  - {"name":"🇳🇱_timo_18","type":"vless","server":"45.159.217.54","port":2087,"uuid":"775213ac-3976-439a-8977-3277c0e4735d","tls":true,"servername":"fq521.6789.cloudns.be","network":"ws","ws-opts":{"path":"Twitter"}}
+  - {"name":"🇺🇸_timo_19","type":"vless","server":"skk.moe","port":8443,"uuid":"d672ec4f-afba-4f61-af09-eec872f97e99","tls":true,"servername":"test157.pages.dev","network":"ws","ws-opts":{"path":"/?ed=2048"},"client-fingerprint":"random"}
+  - {"name":"🇮🇳_timo_20","type":"vless","server":"14.102.228.210","port":2096,"uuid":"f775978b-6e22-41a8-ae5e-5f9779e6745f","tls":true,"servername":"juzibaipiao.5112233.xyz","network":"ws","ws-opts":{"path":"/"}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - Timo|emFz.love@xray.com
+      - 🇺🇸_timo_1
+      - 🇺🇸_timo_2
+      - 🇺🇸_timo_3
+      - 🇰🇷_timo_4
+      - 🇰🇷_timo_5
+      - 🇺🇸_timo_6
+      - 🇰🇷_timo_7
+      - 🇺🇸_timo_8
+      - 🇺🇸_timo_9
+      - 🇰🇷_timo_10
+      - 🇺🇸_timo_11
+      - 🇺🇸_timo_12
+      - 🇺🇸_timo_13
+      - 🇺🇸_timo_14
+      - 🇰🇷_timo_15
+      - 🇫🇷_timo_16
+      - 🇺🇸_timo_17
+      - 🇳🇱_timo_18
+      - 🇺🇸_timo_19
+      - 🇮🇳_timo_20
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - Timo|emFz.love@xray.com
+      - 🇺🇸_timo_1
+      - 🇺🇸_timo_2
+      - 🇺🇸_timo_3
+      - 🇰🇷_timo_4
+      - 🇰🇷_timo_5
+      - 🇺🇸_timo_6
+      - 🇰🇷_timo_7
+      - 🇺🇸_timo_8
+      - 🇺🇸_timo_9
+      - 🇰🇷_timo_10
+      - 🇺🇸_timo_11
+      - 🇺🇸_timo_12
+      - 🇺🇸_timo_13
+      - 🇺🇸_timo_14
+      - 🇰🇷_timo_15
+      - 🇫🇷_timo_16
+      - 🇺🇸_timo_17
+      - 🇳🇱_timo_18
+      - 🇺🇸_timo_19
+      - 🇮🇳_timo_20
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - Timo|emFz.love@xray.com
+      - 🇺🇸_timo_1
+      - 🇺🇸_timo_2
+      - 🇺🇸_timo_3
+      - 🇰🇷_timo_4
+      - 🇰🇷_timo_5
+      - 🇺🇸_timo_6
+      - 🇰🇷_timo_7
+      - 🇺🇸_timo_8
+      - 🇺🇸_timo_9
+      - 🇰🇷_timo_10
+      - 🇺🇸_timo_11
+      - 🇺🇸_timo_12
+      - 🇺🇸_timo_13
+      - 🇺🇸_timo_14
+      - 🇰🇷_timo_15
+      - 🇫🇷_timo_16
+      - 🇺🇸_timo_17
+      - 🇳🇱_timo_18
+      - 🇺🇸_timo_19
+      - 🇮🇳_timo_20
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Timo|emFz.love@xray.com
+      - 🇺🇸_timo_1
+      - 🇺🇸_timo_2
+      - 🇺🇸_timo_3
+      - 🇰🇷_timo_4
+      - 🇰🇷_timo_5
+      - 🇺🇸_timo_6
+      - 🇰🇷_timo_7
+      - 🇺🇸_timo_8
+      - 🇺🇸_timo_9
+      - 🇰🇷_timo_10
+      - 🇺🇸_timo_11
+      - 🇺🇸_timo_12
+      - 🇺🇸_timo_13
+      - 🇺🇸_timo_14
+      - 🇰🇷_timo_15
+      - 🇫🇷_timo_16
+      - 🇺🇸_timo_17
+      - 🇳🇱_timo_18
+      - 🇺🇸_timo_19
+      - 🇮🇳_timo_20
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - Timo|emFz.love@xray.com
+      - 🇺🇸_timo_1
+      - 🇺🇸_timo_2
+      - 🇺🇸_timo_3
+      - 🇰🇷_timo_4
+      - 🇰🇷_timo_5
+      - 🇺🇸_timo_6
+      - 🇰🇷_timo_7
+      - 🇺🇸_timo_8
+      - 🇺🇸_timo_9
+      - 🇰🇷_timo_10
+      - 🇺🇸_timo_11
+      - 🇺🇸_timo_12
+      - 🇺🇸_timo_13
+      - 🇺🇸_timo_14
+      - 🇰🇷_timo_15
+      - 🇫🇷_timo_16
+      - 🇺🇸_timo_17
+      - 🇳🇱_timo_18
+      - 🇺🇸_timo_19
+      - 🇮🇳_timo_20
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Timo|emFz.love@xray.com
+      - 🇺🇸_timo_1
+      - 🇺🇸_timo_2
+      - 🇺🇸_timo_3
+      - 🇰🇷_timo_4
+      - 🇰🇷_timo_5
+      - 🇺🇸_timo_6
+      - 🇰🇷_timo_7
+      - 🇺🇸_timo_8
+      - 🇺🇸_timo_9
+      - 🇰🇷_timo_10
+      - 🇺🇸_timo_11
+      - 🇺🇸_timo_12
+      - 🇺🇸_timo_13
+      - 🇺🇸_timo_14
+      - 🇰🇷_timo_15
+      - 🇫🇷_timo_16
+      - 🇺🇸_timo_17
+      - 🇳🇱_timo_18
+      - 🇺🇸_timo_19
+      - 🇮🇳_timo_20
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -148,7 +280,26 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - Timo|emFz.love@xray.com
+      - 🇺🇸_timo_1
+      - 🇺🇸_timo_2
+      - 🇺🇸_timo_3
+      - 🇰🇷_timo_4
+      - 🇰🇷_timo_5
+      - 🇺🇸_timo_6
+      - 🇰🇷_timo_7
+      - 🇺🇸_timo_8
+      - 🇺🇸_timo_9
+      - 🇰🇷_timo_10
+      - 🇺🇸_timo_11
+      - 🇺🇸_timo_12
+      - 🇺🇸_timo_13
+      - 🇺🇸_timo_14
+      - 🇰🇷_timo_15
+      - 🇫🇷_timo_16
+      - 🇺🇸_timo_17
+      - 🇳🇱_timo_18
+      - 🇺🇸_timo_19
+      - 🇮🇳_timo_20
 
 rules:
 # 本地/局域网地址
