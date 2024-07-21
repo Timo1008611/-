@@ -1,9 +1,9 @@
 ####################################
-# 创建者：timo
+# 创建者：v2rayse.com
 # 客户端：Clash.Meta
-# 创建时间：2024-07-22 01:34:42
+# 创建时间：2024-07-22 01:42:05
 # 使用模版：V2RaySE 默认模版
-# 节点数量：16
+# 节点数量：13
 ####################################
 # !!当前配置文件请使用基于 Clash.Meta 内核程序
 mixed-port: 7890
@@ -86,151 +86,130 @@ dns:
       - 0.0.0.0/32
 
 proxies:
-  - {"name":"Timo_🇳🇱_NL_荷兰_1","type":"vless","server":"45.159.218.189","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"/tg@zdyz2"}}
-  - {"name":"Timo_🇺🇸_US_美国_2","type":"vless","server":"155.46.213.32","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"/tg@zdyz2"}}
-  - {"name":"Timo_🇱🇹_LT_立陶宛_3","type":"vless","server":"185.176.24.113","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"/tg@zdyz2"}}
-  - {"name":"Timo_🇧🇬_BG_保加利亚_4","type":"vless","server":"185.176.26.79","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"tg@zdyz2"}}
-  - {"name":"Timo_🇫🇷_FR_法国_5","type":"vless","server":"94.140.0.185","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"/tg@zdyz2"}}
-  - {"name":"Timo_🇺🇸_US_美国_6","type":"vless","server":"154.85.99.37","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"tg@zdyz2"}}
-  - {"name":"Timo_🇳🇱_NL_荷兰_7","type":"vless","server":"45.159.218.244","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"/tg@zdyz2"}}
-  - {"name":"Timo_🇺🇸_US_美国_8","type":"vless","server":"216.116.134.43","port":2053,"uuid":"f775978b-6e22-41a8-ae5e-5f9779e6745f","tls":true,"servername":"juzibaipiao.5112233.xyz","network":"ws","ws-opts":{"path":"/"}}
-  - {"name":"Timo_🇱🇹_LT_立陶宛_9","type":"vless","server":"185.148.105.137","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"tg@zdyz2"}}
-  - {"name":"Timo_🇪🇸_ES_西班牙_10","type":"vless","server":"185.238.228.184","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"tg@zdyz2"}}
-  - {"name":"Timo_🇷🇺_RU_俄罗斯_11","type":"vless","server":"193.9.49.232","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"tg@zdyz2"}}
-  - {"name":"Timo_🇺🇸_US_美国_12","type":"vless","server":"170.114.45.202","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"/tg@zdyz2"}}
-  - {"name":"Timo_🇺🇸_US_美国_13","type":"vless","server":"168.100.6.127","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"tg@zdyz2"}}
-  - {"name":"Timo_🇬🇷_GR_希腊_14","type":"vless","server":"31.22.116.148","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"/tg@zdyz2"}}
-  - {"name":"Timo_🇷🇺_RU_俄罗斯_15","type":"vless","server":"185.109.21.146","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"tg@zdyz2"}}
-  - {"name":"Timo_🇳🇱_NL_荷兰_16","type":"vless","server":"45.159.218.7","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"/tg@zdyz2"}}
+  - {"name":"US(爱分享的小企鹅)13","type":"vless","server":"154.85.99.37","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"tg@zdyz2","headers":{"host":"cfed.tgzdyz2.top"}}}
+  - {"name":"IP(爱分享的小企鹅)7","type":"vless","server":"193.9.49.232","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"tg@zdyz2","headers":{"host":"cfed.tgzdyz2.top"}}}
+  - {"name":"RU(爱分享的小企鹅)8","type":"vless","server":"185.148.105.137","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"tg@zdyz2","headers":{"host":"cfed.tgzdyz2.top"}}}
+  - {"name":"ES(爱分享的小企鹅)9","type":"vless","server":"185.238.228.184","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"tg@zdyz2","headers":{"host":"cfed.tgzdyz2.top"}}}
+  - {"name":"IP(爱分享的小企鹅)3","type":"vless","server":"45.159.218.244","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"/tg@zdyz2","headers":{"host":"cfed.tgzdyz2.top"}}}
+  - {"name":"FR(爱分享的小企鹅)4","type":"vless","server":"94.140.0.185","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"/tg@zdyz2","headers":{"host":"cfed.tgzdyz2.top"}}}
+  - {"name":"RU(爱分享的小企鹅)12","type":"vless","server":"185.176.24.113","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"/tg@zdyz2","headers":{"host":"cfed.tgzdyz2.top"}}}
+  - {"name":"US(爱分享的小企鹅)10","type":"vless","server":"216.116.134.43","port":2053,"uuid":"f775978b-6e22-41a8-ae5e-5f9779e6745f","tls":true,"servername":"juzibaipiao.5112233.xyz","network":"ws","ws-opts":{"path":"/","headers":{"host":"juzibaipiao.5112233.xyz"}}}
+  - {"name":"IP(爱分享的小企鹅)16","type":"vless","server":"45.159.218.7","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"/tg@zdyz2","headers":{"host":"cfed.tgzdyz2.top"}}}
+  - {"name":"US(爱分享的小企鹅)17","type":"vless","server":"170.114.45.202","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"/tg@zdyz2","headers":{"host":"cfed.tgzdyz2.top"}}}
+  - {"name":"GB(爱分享的小企鹅)18","type":"vless","server":"31.22.116.148","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"/tg@zdyz2","headers":{"host":"cfed.tgzdyz2.top"}}}
+  - {"name":"US(爱分享的小企鹅)2","type":"vless","server":"155.46.213.32","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"/tg@zdyz2","headers":{"host":"cfed.tgzdyz2.top"}}}
+  - {"name":"IP(爱分享的小企鹅)5","type":"vless","server":"45.159.218.189","port":443,"uuid":"2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5","tls":true,"servername":"cfed.tgzdyz2.top","network":"ws","ws-opts":{"path":"/tg@zdyz2","headers":{"host":"cfed.tgzdyz2.top"}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - Timo_🇳🇱_NL_荷兰_1
-      - Timo_🇺🇸_US_美国_2
-      - Timo_🇱🇹_LT_立陶宛_3
-      - Timo_🇧🇬_BG_保加利亚_4
-      - Timo_🇫🇷_FR_法国_5
-      - Timo_🇺🇸_US_美国_6
-      - Timo_🇳🇱_NL_荷兰_7
-      - Timo_🇺🇸_US_美国_8
-      - Timo_🇱🇹_LT_立陶宛_9
-      - Timo_🇪🇸_ES_西班牙_10
-      - Timo_🇷🇺_RU_俄罗斯_11
-      - Timo_🇺🇸_US_美国_12
-      - Timo_🇺🇸_US_美国_13
-      - Timo_🇬🇷_GR_希腊_14
-      - Timo_🇷🇺_RU_俄罗斯_15
-      - Timo_🇳🇱_NL_荷兰_16
+      - US(爱分享的小企鹅)13
+      - IP(爱分享的小企鹅)7
+      - RU(爱分享的小企鹅)8
+      - ES(爱分享的小企鹅)9
+      - IP(爱分享的小企鹅)3
+      - FR(爱分享的小企鹅)4
+      - RU(爱分享的小企鹅)12
+      - US(爱分享的小企鹅)10
+      - IP(爱分享的小企鹅)16
+      - US(爱分享的小企鹅)17
+      - GB(爱分享的小企鹅)18
+      - US(爱分享的小企鹅)2
+      - IP(爱分享的小企鹅)5
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - Timo_🇳🇱_NL_荷兰_1
-      - Timo_🇺🇸_US_美国_2
-      - Timo_🇱🇹_LT_立陶宛_3
-      - Timo_🇧🇬_BG_保加利亚_4
-      - Timo_🇫🇷_FR_法国_5
-      - Timo_🇺🇸_US_美国_6
-      - Timo_🇳🇱_NL_荷兰_7
-      - Timo_🇺🇸_US_美国_8
-      - Timo_🇱🇹_LT_立陶宛_9
-      - Timo_🇪🇸_ES_西班牙_10
-      - Timo_🇷🇺_RU_俄罗斯_11
-      - Timo_🇺🇸_US_美国_12
-      - Timo_🇺🇸_US_美国_13
-      - Timo_🇬🇷_GR_希腊_14
-      - Timo_🇷🇺_RU_俄罗斯_15
-      - Timo_🇳🇱_NL_荷兰_16
+      - US(爱分享的小企鹅)13
+      - IP(爱分享的小企鹅)7
+      - RU(爱分享的小企鹅)8
+      - ES(爱分享的小企鹅)9
+      - IP(爱分享的小企鹅)3
+      - FR(爱分享的小企鹅)4
+      - RU(爱分享的小企鹅)12
+      - US(爱分享的小企鹅)10
+      - IP(爱分享的小企鹅)16
+      - US(爱分享的小企鹅)17
+      - GB(爱分享的小企鹅)18
+      - US(爱分享的小企鹅)2
+      - IP(爱分享的小企鹅)5
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - Timo_🇳🇱_NL_荷兰_1
-      - Timo_🇺🇸_US_美国_2
-      - Timo_🇱🇹_LT_立陶宛_3
-      - Timo_🇧🇬_BG_保加利亚_4
-      - Timo_🇫🇷_FR_法国_5
-      - Timo_🇺🇸_US_美国_6
-      - Timo_🇳🇱_NL_荷兰_7
-      - Timo_🇺🇸_US_美国_8
-      - Timo_🇱🇹_LT_立陶宛_9
-      - Timo_🇪🇸_ES_西班牙_10
-      - Timo_🇷🇺_RU_俄罗斯_11
-      - Timo_🇺🇸_US_美国_12
-      - Timo_🇺🇸_US_美国_13
-      - Timo_🇬🇷_GR_希腊_14
-      - Timo_🇷🇺_RU_俄罗斯_15
-      - Timo_🇳🇱_NL_荷兰_16
+      - US(爱分享的小企鹅)13
+      - IP(爱分享的小企鹅)7
+      - RU(爱分享的小企鹅)8
+      - ES(爱分享的小企鹅)9
+      - IP(爱分享的小企鹅)3
+      - FR(爱分享的小企鹅)4
+      - RU(爱分享的小企鹅)12
+      - US(爱分享的小企鹅)10
+      - IP(爱分享的小企鹅)16
+      - US(爱分享的小企鹅)17
+      - GB(爱分享的小企鹅)18
+      - US(爱分享的小企鹅)2
+      - IP(爱分享的小企鹅)5
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Timo_🇳🇱_NL_荷兰_1
-      - Timo_🇺🇸_US_美国_2
-      - Timo_🇱🇹_LT_立陶宛_3
-      - Timo_🇧🇬_BG_保加利亚_4
-      - Timo_🇫🇷_FR_法国_5
-      - Timo_🇺🇸_US_美国_6
-      - Timo_🇳🇱_NL_荷兰_7
-      - Timo_🇺🇸_US_美国_8
-      - Timo_🇱🇹_LT_立陶宛_9
-      - Timo_🇪🇸_ES_西班牙_10
-      - Timo_🇷🇺_RU_俄罗斯_11
-      - Timo_🇺🇸_US_美国_12
-      - Timo_🇺🇸_US_美国_13
-      - Timo_🇬🇷_GR_希腊_14
-      - Timo_🇷🇺_RU_俄罗斯_15
-      - Timo_🇳🇱_NL_荷兰_16
+      - US(爱分享的小企鹅)13
+      - IP(爱分享的小企鹅)7
+      - RU(爱分享的小企鹅)8
+      - ES(爱分享的小企鹅)9
+      - IP(爱分享的小企鹅)3
+      - FR(爱分享的小企鹅)4
+      - RU(爱分享的小企鹅)12
+      - US(爱分享的小企鹅)10
+      - IP(爱分享的小企鹅)16
+      - US(爱分享的小企鹅)17
+      - GB(爱分享的小企鹅)18
+      - US(爱分享的小企鹅)2
+      - IP(爱分享的小企鹅)5
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - Timo_🇳🇱_NL_荷兰_1
-      - Timo_🇺🇸_US_美国_2
-      - Timo_🇱🇹_LT_立陶宛_3
-      - Timo_🇧🇬_BG_保加利亚_4
-      - Timo_🇫🇷_FR_法国_5
-      - Timo_🇺🇸_US_美国_6
-      - Timo_🇳🇱_NL_荷兰_7
-      - Timo_🇺🇸_US_美国_8
-      - Timo_🇱🇹_LT_立陶宛_9
-      - Timo_🇪🇸_ES_西班牙_10
-      - Timo_🇷🇺_RU_俄罗斯_11
-      - Timo_🇺🇸_US_美国_12
-      - Timo_🇺🇸_US_美国_13
-      - Timo_🇬🇷_GR_希腊_14
-      - Timo_🇷🇺_RU_俄罗斯_15
-      - Timo_🇳🇱_NL_荷兰_16
+      - US(爱分享的小企鹅)13
+      - IP(爱分享的小企鹅)7
+      - RU(爱分享的小企鹅)8
+      - ES(爱分享的小企鹅)9
+      - IP(爱分享的小企鹅)3
+      - FR(爱分享的小企鹅)4
+      - RU(爱分享的小企鹅)12
+      - US(爱分享的小企鹅)10
+      - IP(爱分享的小企鹅)16
+      - US(爱分享的小企鹅)17
+      - GB(爱分享的小企鹅)18
+      - US(爱分享的小企鹅)2
+      - IP(爱分享的小企鹅)5
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - Timo_🇳🇱_NL_荷兰_1
-      - Timo_🇺🇸_US_美国_2
-      - Timo_🇱🇹_LT_立陶宛_3
-      - Timo_🇧🇬_BG_保加利亚_4
-      - Timo_🇫🇷_FR_法国_5
-      - Timo_🇺🇸_US_美国_6
-      - Timo_🇳🇱_NL_荷兰_7
-      - Timo_🇺🇸_US_美国_8
-      - Timo_🇱🇹_LT_立陶宛_9
-      - Timo_🇪🇸_ES_西班牙_10
-      - Timo_🇷🇺_RU_俄罗斯_11
-      - Timo_🇺🇸_US_美国_12
-      - Timo_🇺🇸_US_美国_13
-      - Timo_🇬🇷_GR_希腊_14
-      - Timo_🇷🇺_RU_俄罗斯_15
-      - Timo_🇳🇱_NL_荷兰_16
+      - US(爱分享的小企鹅)13
+      - IP(爱分享的小企鹅)7
+      - RU(爱分享的小企鹅)8
+      - ES(爱分享的小企鹅)9
+      - IP(爱分享的小企鹅)3
+      - FR(爱分享的小企鹅)4
+      - RU(爱分享的小企鹅)12
+      - US(爱分享的小企鹅)10
+      - IP(爱分享的小企鹅)16
+      - US(爱分享的小企鹅)17
+      - GB(爱分享的小企鹅)18
+      - US(爱分享的小企鹅)2
+      - IP(爱分享的小企鹅)5
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -253,22 +232,19 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - Timo_🇳🇱_NL_荷兰_1
-      - Timo_🇺🇸_US_美国_2
-      - Timo_🇱🇹_LT_立陶宛_3
-      - Timo_🇧🇬_BG_保加利亚_4
-      - Timo_🇫🇷_FR_法国_5
-      - Timo_🇺🇸_US_美国_6
-      - Timo_🇳🇱_NL_荷兰_7
-      - Timo_🇺🇸_US_美国_8
-      - Timo_🇱🇹_LT_立陶宛_9
-      - Timo_🇪🇸_ES_西班牙_10
-      - Timo_🇷🇺_RU_俄罗斯_11
-      - Timo_🇺🇸_US_美国_12
-      - Timo_🇺🇸_US_美国_13
-      - Timo_🇬🇷_GR_希腊_14
-      - Timo_🇷🇺_RU_俄罗斯_15
-      - Timo_🇳🇱_NL_荷兰_16
+      - US(爱分享的小企鹅)13
+      - IP(爱分享的小企鹅)7
+      - RU(爱分享的小企鹅)8
+      - ES(爱分享的小企鹅)9
+      - IP(爱分享的小企鹅)3
+      - FR(爱分享的小企鹅)4
+      - RU(爱分享的小企鹅)12
+      - US(爱分享的小企鹅)10
+      - IP(爱分享的小企鹅)16
+      - US(爱分享的小企鹅)17
+      - GB(爱分享的小企鹅)18
+      - US(爱分享的小企鹅)2
+      - IP(爱分享的小企鹅)5
 
 rules:
 # 本地/局域网地址
